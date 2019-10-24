@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movie Adviser</string>
+    <string name="Toptext">Movies Adviser App</string>
+    <string name="Button">Show Movies</string>
+    <string name="text">Textview</string>
+    <string name="movies_list" />
+    <string-array name="movies_genre">
+        <item>Action</item>
+        <item>Comedy</item>
+        <item>Horror</item>
+        <item>Romance</item>
+        <item>Thriller</item>
+    </string-array>
+</resources>
